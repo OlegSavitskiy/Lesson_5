@@ -1,0 +1,17 @@
+h1,h2{
+    text-align: center;
+}
+    td{
+        border-left: 6px solid blue;
+    }
+    body{
+        font-size: 36px;
+    }
+    table{
+        height: 180px;
+        border-spacing: 20px;
+    }
+    k{
+        color: rgb(121, 60, 17);
+    }
+    
